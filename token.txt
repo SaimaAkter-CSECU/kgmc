@@ -1,0 +1,4 @@
+SMS gateway Webservices username : mehedi.khl
+Webservices token : 78a085bf84b6e9e31663671af380b01f
+
+SMS format : Dear Student "Student Name From DB" Admission Rolll "Admission From DB " Your Admission Form Receive Successfully. KGMC

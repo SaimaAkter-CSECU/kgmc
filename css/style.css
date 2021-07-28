@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 70%;
+  max-width: 100%;
+  border-radius: 10px;
+  background: blanchedalmond;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.box .col-form-label {
+  background: #111;
+  border-radius: 10px;
+  color: #fff;
+}
+
+.section_header {
+  color: #333;
+}
+/*# sourceMappingURL=style.css.map */
